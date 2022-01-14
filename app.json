@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/Saleenacp/EvaMaria",
-    "repository": "https://github.com/MRK-YT/EvaMaria",
+    "repository": "https://github.com/Saleenacp/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
